@@ -1,0 +1,26 @@
+.headingnav-margin {
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    
+}
+
+.info-margin {
+   margin-left: 3rem;
+   margin-right: 3rem;
+   margin-top: 3rem;
+}
+
+.img-margin {
+    margin-bottom: 3rem;
+    margin-top: 5rem;
+}
+
+.body-background {
+    background-image: url("../my-adventure/images/mariobackground.jpeg");
+}
+
+.info-background {
+    background-color: rgb(190, 197, 226);
+}
+
