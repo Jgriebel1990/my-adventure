@@ -6,9 +6,9 @@
 }
 
 .info-margin {
-   margin-left: 3rem;
-   margin-right: 3rem;
-   margin-top: 3rem;
+   margin-left: 2rem;
+   margin-right: 2rem;
+   margin-top: 2rem;
 }
 
 .img-margin {
@@ -22,5 +22,31 @@
 
 .info-background {
     background-color: rgb(190, 197, 226);
+}
+
+.info-border {
+    border-bottom-style: solid;
+    border-color: black;
+
+}
+
+.card-margin-one {
+    margin-left: 2rem;
+}
+
+.card-margin-three {
+    margin-right: 2rem;
+}
+
+.list-item-links {
+    display: inline-block;
+
+}
+
+.footer {
+    background-color: slategray;
+    border-style: solid;
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
 
